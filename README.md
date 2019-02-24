@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Tool Drafter
-
 An Intelligent Hoodlums Joint.
 A tool to add a layer of complexity and challenge when kids are creating content.
 
